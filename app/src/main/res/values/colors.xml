@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ice">#ffffff</color>
+    <color name="crystal">#f7f7f4</color>
+    <color name="chrome">#f2f2ef</color>
+    <color name="standstone">#dfdfd5</color>
+    <color name="silicon">#c9c9c8</color>
+    <color name="graphite">#ababab</color>
+    <color name="charcoal">#747474</color>
+    <color name="carbon">#2f2f2f</color>
+    <color name="petroleum">#152b3c</color>
+    <color name="slate">#7390a3</color>
+    <color name="topaz">#00b4f1</color>
+    <color name="lapis">#006aff</color>
+    <color name="agate">#ff6b57</color>
+    <color name="opal">#ff5e03</color>
+    <color name="ruby">#ff0014</color>
+    <color name="rhodonite">#ff3266</color>
+    <color name="morganite">#fb7895</color>
+    <color name="gold">#ffc100</color>
+    <color name="amber">#ffd656</color>
+    <color name="emerald">#33cb7d</color>
+    <color name="aqua">#87cff0</color>
+    <color name="oxygen">#b1def0</color>
+    <color name="phosphorous">#33cb98</color>
+    <color name="barium">#61d1ab</color>
+    <color name="pearl">#fcfcf0</color>
+    <color name="sand">#fdf8cf</color>
+    <color name="gernet">#db0011</color>
+    <color name="amethyst">#5d47b2</color>
+</resources>

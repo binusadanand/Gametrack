@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/binusadanand/GameTrack/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0845ebd3d4ce8e6c39878215a33c2915ed52b325">
+        <dex dex="/Users/binusadanand/GameTrack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7525319e96aa88ac09f9f2f7b3aa4b9523c48540/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/binusadanand/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC1/1b4bba8f8d3df8db064c875c043c01e9ca3cdee9/disklrucache-4.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b4bba8f8d3df8db064c875c043c01e9ca3cdee9">
+        <dex dex="/Users/binusadanand/GameTrack/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.0.0-RC1_dbd306e839dca7b3daaf48609c90b8bea309e4c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/binusadanand/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/binusadanand/GameTrack/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-java5-15.0_9d07c387ebdd3b2d0a100bffc7496a6aa542e50e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/binusadanand/GameTrack/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/binusadanand/GameTrack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f364fed5c114294b24c51e54953af11d13b532b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/binusadanand/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC1/7baec7d5132e7343100a99630a56a6584a33addc/glide-4.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7baec7d5132e7343100a99630a56a6584a33addc">
+        <dex dex="/Users/binusadanand/GameTrack/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.0.0-RC1_d78e3ffdfccf76795b099adc535df612ea3cbdb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/binusadanand/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC1/84c524dcd1a3088edd5560a8ac176eae1317f770/annotations-4.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84c524dcd1a3088edd5560a8ac176eae1317f770">
+        <dex dex="/Users/binusadanand/GameTrack/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.0.0-RC1_6ddcc7a823a7a7d1ff78e451788a20e192156851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/binusadanand/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC1/c425e31eda1069f978a0e823ad50e567ab422656/gifdecoder-4.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c425e31eda1069f978a0e823ad50e567ab422656">
+        <dex dex="/Users/binusadanand/GameTrack/app/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.0.0-RC1_8eab37fd098f1e9f96ff1628777a51cdad4a8c70/classes.dex" />
+    </item>
+
+</items>
